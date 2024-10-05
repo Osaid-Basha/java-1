@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="scala-sdk-2.12.18">
+    <archive path="C:/Users/ASUS/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.18.jar" />
+    <archive path="C:/Users/ASUS/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.12.18.jar" />
+    <archive path="C:/Users/ASUS/.ivy2/cache/org.scala-lang.modules/scala-xml_2.12/bundles/scala-xml_2.12-2.1.0.jar" />
+  </library>
+  <library name="scala-sdk-3.5.1">
+    <archive path="C:/Users/ASUS/.ivy2/cache/org.scala-lang/scala3-library_3/jars/scala3-library_3-3.5.1.jar" />
+    <archive path="C:/Users/ASUS/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.13.14.jar" />
+  </library>
+</eclipse-userlibraries>
+
